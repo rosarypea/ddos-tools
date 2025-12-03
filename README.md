@@ -1,4 +1,4 @@
-# Cyberwhiz DDoS Tools  
+# DDoS Tools  
 
 Bu proje, **DigitalOcean üzerinde droplet oluşturma**, **otomatik bağlantı sağlama** ve **L3/L7 DDoS testleri** yapmayı kolaylaştırmak için geliştirilmiş bir araç setidir.  
 Tamamen **eğitim ve sızma testi (pentest) senaryoları** için tasarlanmıştır.  
